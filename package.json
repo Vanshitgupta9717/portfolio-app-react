@@ -10,7 +10,7 @@
     "start": "next start",
     "export": "yarn run build && next export && mv out _static"
   },
-  "engines" {
+  "engines": {
     "node": "14.x"
   },
   "dependencies": {
